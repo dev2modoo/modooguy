@@ -39,7 +39,7 @@ see the [add-to-app documentation](https://flutter.dev/docs/development/add-to-a
 
 ## Section 6: Provider
 
-* [MiCard Stub Project](https://github.com/londonappbrewery/mi_card_flutter)
+* [MiCard Stub Project](https://github.com/modooguy/modooguy)
 * 
 ## Section 7: Operate Camera
 
