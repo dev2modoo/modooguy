@@ -20,7 +20,7 @@ see the [add-to-app documentation](https://flutter.dev/docs/development/add-to-a
 
 ## Section 2: Feed Screen Layout
 
-* [Getting Started: Installing Flutter](https://flutter.dev/docs/get-started/install)
+* [Feed_screen_layout](https://github.com/modooguy/feed_screen_layout)
 
 
 ## Section 3: Profile Screen Layout
